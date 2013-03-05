@@ -11,4 +11,4 @@ This project is written in the `plai-typed` dialect of Racket, which was what we
 
     raco pkg install plai-typed
 
-This is also a good example for how to use `big-bag` in `plai-typed`. It requires a fair amount of type hackery in the imports.
+This is also a good example for how to use `big-bang` in `plai-typed`. It requires a fair amount of type hackery in the imports.
