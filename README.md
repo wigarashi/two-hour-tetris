@@ -3,7 +3,7 @@ two-hour-tetris
 
 At Brown, there are three intro CS sequences, CS 15/16 (which teaches Java and Python), CS 17/18 (Racket, OCaml, Scala, Java), and CS 19 (Racket, Java). These are (in theory) in order of difficulty.
 
-To demonstrate to my friend in CS 15 why I think it's a bad course, I wrote this Tetris in two hours while she was working on hers, which is a two week project in CS 15. The functionaliy is not entirely equivalent, but it is pretty close, and I chose to leave the code as is to demonstrate how easy it is to build simple games in Racket.
+To demonstrate to my friend in CS 15 why I think Java is a terrible language for teaching intro CS, I wrote this Tetris in two hours while she was working on hers, which is a two week project in CS 15. The functionaliy is not entirely equivalent, but it is pretty close, and I chose to leave the code as is to demonstrate how easy it is to build simple games in Racket.
 
 plai-typed
 ----------
